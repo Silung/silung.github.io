@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shilong Zhao, a third-year master’s student at the Institute of Computing Technology, Chinese Academy of Sciences. I received my bachelor’s degree from the School of Computer Science at Beijing Institute of Technology. My main research interests are LLM Agent and recommendation systems.
+I am Shilong Zhao, a third-year master’s student at the State Key Lab of AI Safety, Institute of Computing Technology, Chinese Academy of Sciences. I received my bachelor’s degree from the School of Computer Science at Beijing Institute of Technology. My main research interests are LLM Agent and recommendation systems.
 
 GitHub: [https://github.com/Silung](https://github.com/Silung)
 
