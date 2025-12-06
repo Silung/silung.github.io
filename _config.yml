@@ -20,7 +20,7 @@ repository               : "silung/silung.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar      : "profile.png"
+  avatar      : "profile.jpg"
   name        : "Shilong Zhao"
   location    : "Beijing, China"
   github      : "https://github.com/Silung"
