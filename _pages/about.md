@@ -17,4 +17,14 @@ GitHub: [https://github.com/Silung](https://github.com/Silung)
 
 - Hulingxiao He, Wu Yuan, Yidian Huang, Shilong Zhao, Wen Yuan, Hanqing Li. "Learning Unified Representations for Multi-Resolution Face Recognition." BMVC, 2023.
 
+### Gallery
 
+#### SIGIR-AP 2025
+
+<div class="gallery" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/sigir-ap-2025/1765652009923.jpg" alt="SIGIR-AP 2025" style="width: 200px; border-radius: 8px;">
+  <img src="/images/sigir-ap-2025/1765652009930.jpg" alt="SIGIR-AP 2025" style="width: 200px; border-radius: 8px;">
+  <img src="/images/sigir-ap-2025/1765652009948.jpg" alt="SIGIR-AP 2025" style="width: 200px; border-radius: 8px;">
+  <img src="/images/sigir-ap-2025/1765652009936.jpg" alt="SIGIR-AP 2025" style="width: 200px; border-radius: 8px;">
+  <img src="/images/sigir-ap-2025/1765652009942.jpg" alt="SIGIR-AP 2025" style="width: 200px; border-radius: 8px;">
+</div>
